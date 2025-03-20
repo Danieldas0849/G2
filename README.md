@@ -1,3 +1,4 @@
+
 #AgCalculator 
 Udapte
 using Microsoft.AspNetCore.Mvc;
@@ -249,3 +250,5 @@ namespace Syntizen.SWS.API.Controllers
         }
     }
 }
+
+
